@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Natis Phone Ent",
+  "short_name": "Natis",
+  "description": "Shop phones, laptops, and accessories from Natis Phone Ent in Accra, Ghana.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#07142e",
+  "categories": ["shopping"],
+  "icons": [
+    {
+      "src": "/brand/natis-app-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
